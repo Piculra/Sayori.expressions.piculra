@@ -1,0 +1,51 @@
+{
+    "$schema": "https://raw.githubusercontent.com/edave64/doki-doki-dialog-generator-pack-format/master/src/v1/schema.json",
+    "packId": "sayori.expressions.piculra",
+    "packCredits": "Created by todbot1, using assets from the <a href='https://www.reddit.com/r/DDLCMods/comments/9yc94p/'>Dynamic Pose Tool</a> by AgentGold",
+    "packName": "Extra expressions",
+    "authors": [
+        "Piculra"
+    ],
+    "id": "ddlc.sayori",
+    "heads": {
+        "straight": [
+            "./a1.png",
+            "./a2.png",
+            "./a3.png",
+            "./a4.png",
+            "./a5.png",
+            "./a6.png",
+            "./a7.png",
+            "./a8.png",
+            "./a9.png",
+            "./a10.png",
+            "./a11.png",
+            "./a12.png",
+            "./a13.png",
+            "./a14.png",
+            "./a15.png",
+            "./a16.png",
+            "./a17.png",
+            "./a18.png",
+            "./a19.png",
+            "./a20.png",
+            "./a21.png",
+            "./a22.png",
+            "./a23.png",
+            "./a24.png",
+            "./a25.png",
+            "./a26.png",
+            "./a27.png",
+            "./a28.png",
+            "./a29.png",
+            "./a30.png"
+
+        ],
+        "sideways":[
+            "./b1.png",
+            "./b2.png",
+            "./b3.png"
+        ]
+    },
+    "poses": []
+}
